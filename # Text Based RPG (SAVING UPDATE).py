@@ -1,5 +1,4 @@
 # Text Based RPG
-# Jerome Doby CSC1019151
 # Intro to Programming final project
 
 
